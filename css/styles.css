@@ -21,8 +21,8 @@ a{
 }
 
 nav{
-    padding-top: 4rem;
-    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     display: flex;
     flex-direction:row;
     justify-content: space-between;
@@ -32,7 +32,7 @@ h1{
     color: white;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 h2{
@@ -45,13 +45,13 @@ h3{
     color: white;
     font-family: 'Roboto', sans-serif;
     font-weight:light;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 h4{
     color: rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
-    letter-spacing: 5px;
+    letter-spacing: 2.55px;
     font-size: medium; 
 }
 
