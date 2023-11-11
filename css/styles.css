@@ -104,7 +104,7 @@ footer{
     font-size: 3rem;
     text-indent: 8.4rem;
     letter-spacing: 2px;
-    margin-top: -1.2rem;
+    margin-top: -1rem;
 }
 
 .descripcion{
@@ -121,8 +121,8 @@ footer{
     margin-left: 8.4rem;
     padding-top: 0.7rem;
     padding-bottom: 0.7rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1.7rem;
+    padding-right: 1.7rem;
 }
 
 .explora:hover{
