@@ -52,7 +52,7 @@ h4{
     color: rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2.55px;
-    font-size: medium; 
+    font-weight: light;
 }
 
 footer{
@@ -117,8 +117,8 @@ footer{
     border: none;
     margin-top: 3rem;
     margin-left: 8.4rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
     padding-left: 2rem;
     padding-right: 2rem;
 }
